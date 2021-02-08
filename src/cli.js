@@ -182,6 +182,7 @@ function coffeeCheck(coffeeType) {
                 break;
         }
     }
+
     else {
         console.log(messages.coffeeError);
     }
